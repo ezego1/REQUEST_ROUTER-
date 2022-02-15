@@ -1,0 +1,1 @@
+WEB: npm heroku:start
